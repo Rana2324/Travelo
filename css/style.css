@@ -108,7 +108,7 @@ ul {
 }
 #banner .container .content_wrapper {
   max-width: 850px;
-  width: 100%;
+  /* width: 100%; */
   margin: 0 auto;
 }
 
