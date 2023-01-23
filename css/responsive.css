@@ -89,15 +89,6 @@
   #banner .container .content_wrapper {
     max-width: 850px;
   }
-  /* #blog .container .inner_blog {
-    flex-wrap: wrap;
-  }
-  #blog .container .inner_blog .left_content {
-    flex-basis: 100%;
-  }
-  #blog .container .inner_blog .right_content {
-    flex-basis: 100%;
-  } */
 }
 @media only screen and (max-width: 600px) {
   #banner .container .content_wrapper {
